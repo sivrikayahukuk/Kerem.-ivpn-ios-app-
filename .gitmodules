@@ -1,0 +1,3 @@
+[submodule "ivpn-ios-app"]
+	path = ivpn-ios-app
+	url = https://github.com/ivpn/ios-app.git
